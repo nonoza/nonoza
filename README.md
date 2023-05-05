@@ -2,7 +2,7 @@
 - 👀 I’m interested in developing Webpages from PSD designs using HTML, CSS and SASS.
 - 🌱 I’m currently learning Javascript and Javascript Libraries
 - 💞️ I’m looking to collaborate on any of the Web Dev industry.
-- 📫 How to reach me on hello@prettynkunene.co.za 
+- 📫 Reach out to me at hello@prettynkunene.co.za 
 
 <!---
 nonoza/nonoza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
