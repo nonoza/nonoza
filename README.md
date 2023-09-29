@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nonoza
-- 👀 I’m interested in developing Webpages from Figma designs using HTML, CSS and SASS.
+- 👀 I’m interested in developing Webpages from Figma designs using HTML, Vanilla CSS, CSS Framework(Tailwind and Sass).
 - 🌱 I’m currently learning Javascript and Javascript Libraries
 - 💞️ I’m looking to collaborate on any of the Web Dev industry.
 - 📫 Reach out to me at hello@prettynkunene.co.za 
